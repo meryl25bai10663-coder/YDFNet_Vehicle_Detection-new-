@@ -1,0 +1,16 @@
+pymoo
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost
+imageio-ffmpeg
+plotly
+folium
+streamlit-folium
+requests
+opencv-python-headless
+ultralytics
+git+https://github.com/ultralytics/CLIP.git
+lap>=0.5.12
+pyproj
