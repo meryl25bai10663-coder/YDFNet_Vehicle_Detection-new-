@@ -4,7 +4,7 @@
 
 EmergeRoute generates several candidate traffic-control policies for a congested road network, tests every one of them in a SUMO simulation, and ranks them on six objectives before recommending one. The goal is to replace one-metric, unvalidated decisions with options that were simulated and compared first.
 
-**Live demo:** <https://ydfnet.streamlit.app>
+**Live demo:** <https://emergeroute.streamlit.app/>
 
 The repository has two integrated parts:
 
