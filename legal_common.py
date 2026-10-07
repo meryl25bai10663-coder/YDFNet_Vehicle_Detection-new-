@@ -7,8 +7,8 @@ from pathlib import Path
 
 import streamlit as st
 
-OPERATOR = "Sanket Suri"
-CONTACT_EMAIL = "sanketsuri99@gmail.com"
+OPERATOR = "Meryl Adrina Kerobin"
+CONTACT_EMAIL = "meryl.akwork@gmail.com"
 JURISDICTION = "India"
 HOSTING = "Streamlit Community Cloud"
 RETENTION = "a limited time, until we delete them or the server restarts"
